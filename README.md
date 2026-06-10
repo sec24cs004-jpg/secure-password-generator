@@ -23,14 +23,11 @@ How to Run
 1. Install Python 3.
 2. Download the project files.
 3. Open a terminal or command prompt.
-4. Run:
-
-python password_generator.py
-
+4. Run: python password_generator.py. 
 5. Enter the desired password length.
 6. Copy the generated password.
 
-Sample Output
+Sample Output:
 
 Secure Password Generator
 
@@ -41,10 +38,11 @@ A@9kL#2mP!7x
 
 Password Strength: Strong
 
+
 Project Structure
 
-password_generator.py
-README.md
+1.README.md
+2.password_generator.py
 
 Future Enhancements
 
